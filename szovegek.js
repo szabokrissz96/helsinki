@@ -1,5 +1,5 @@
 var szovegintro = `
-<div id="refresh"><b>Utolsó frissítés: 2023.12.15.</b></div><br><br>
+<div id="refresh"><b>Utolsó frissítés: 2023.12.14.</b></div><br><br>
 <b>Mekkora pénzről van szó?</b><br><br>A 2021-2027-es európai uniós költségvetésből, konkrétabban a kohéziós és egyéb alapokból, valamint a szintén 2021-től felhasználható Helyreállítási Alapból (RRF)  összesen <a href='https://helsinki.hu/eu-tamogatas/'target='_blank'>31,6 milliárd eurót</a>, azaz több mint 12 000 milliárd forint tartanak vissza, fagyasztottak be. Így a jelenlegi uniós költségvetésből csekély, míg a helyreállítási alapból semmilyen támogatás nem érkezett Magyarországra.<br><br><br><b>
 Milyen eljárásokban zárolták az uniós támogatásokat?</b><br><br>
 A pénzeket nem gonoszságból vagy bosszúból tartják vissza az uniós intézmények. Szó sincs önkényeskedésről, a pénzcsapokat az uniós jog által meghatározott, minden tagállamra vonatkozó eljárásokat követve zárták el, és úgy is fogják újranyitni.<br><br>
