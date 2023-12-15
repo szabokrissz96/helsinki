@@ -1,5 +1,5 @@
 var szovegintro = `
-<div id="refresh"><b>Last update: 16th December 2023</b></div><br><br>
+<div id="refresh"><b>Last update: 15th December 2023</b></div><br><br>
 <b>How much money is at stake?</b><br><br>Suspended EU payments for Hungary amounts to EUR 31,6 billion including cohesion and home affairs funds of the 2021-2027 Multiannual Financial Framework (MFF) and recovery funds of the Recovery and Resilience Facility (RRF). This means that Hungary has received little from the on-going MFF EU and none from the RRF.<br><br><br><b>
 What is the legal basis for suspension?</b><br><br>
 The financial measures are possible under three Regulations attached to the Union budget:<br>
